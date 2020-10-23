@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.exe
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.deps.json
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.runtimeconfig.json
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.dll
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\bin\Debug\netcoreapp3.1\WinformsTest.pdb
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.AssemblyInfo.cs
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.dll
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.pdb
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.Form1.resources
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OpenSource\WinformsTest\WinformsTest\obj\Debug\netcoreapp3.1\WinformsTest.genruntimeconfig.cache
